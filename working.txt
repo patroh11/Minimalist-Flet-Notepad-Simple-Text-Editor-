@@ -1,0 +1,4 @@
+The Minimalist Flet Notepad is a simple text editor implemented in Flet with a clean design and essential features.
+The code defines a `TextEditor` class that inherits from `UserControl` and includes a multiline `TextField` for text input.
+The editor automatically saves and loads text from a file ('save.txt'), ensuring persistent notes across sessions. With a minimalistic interface and efficient functionality,
+this Flet Notepad provides an uncomplicated and distraction-free writing experience.
